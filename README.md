@@ -1,7 +1,7 @@
 
-# Brendan Bycroft's Home Page & Projects
+# Rohit Singh's Home Page & Projects
 
-This repository contains my (Brendan's) homepage, as well as a number of non-trivial projects.
+This repository contains my (Rohit's) homepage, as well as a number of non-trivial projects.
 
 They are kept in a single repository for ease of deployment, as well as sharing a bunch of js utils
 which are otherwise a pain to share around.
